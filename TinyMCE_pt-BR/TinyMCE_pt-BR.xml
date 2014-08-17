@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="file" version="3.0" method="upgrade">
+	<name>TinyMCE Idioma Português (Brasil)</name>
+	<author>Joomla Brasil</author>
+	<version>4.0.19</version>
+	<creationDate>março de 2014</creationDate>
+	<copyright>Joomla Brasil</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>http://pipadigital.com.br/ e https://www.facebook.com/groups/joomla.brasil.desenvolvedores/</authorEmail>
+	<description><![CDATA[
+		<h3><strong>Instalação do pacote de idioma Português (Brasil) para o editor TinyMCE 4.0.19 foi concluído com sucesso.</strong></h3>
+		<p>Não se esqueça de selecionar o idioma para PT <a href="index.php?option=com_plugins&amp;view=plugins&amp;filter_search=TinyMCE"><strong>Gerenciamento de plug-in TinyMCE</strong></a><br /> Se você usar a detecção automática, certifique-se de que estão instalados os pacotes de idiomas diferentes para TinyMCE correspondentes aos instalado para o Joomla !<p>
+		]]>
+	</description>
+	<fileset>
+		<files target="media/editors">
+			<filename>tinymce/langs/pt-BR.js</filename>
+		</files>
+	</fileset>
+</extension>

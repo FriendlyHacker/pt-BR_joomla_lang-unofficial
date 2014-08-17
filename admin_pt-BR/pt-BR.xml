@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile version="3.0" client="administrator">
+	<name>Português (Brasil)</name>
+	<version>3.2.3-1</version>
+	<creationDate>mar 2014</creationDate>
+	<author>Joomla Brasil</author>
+	<authorEmail>jandersonmm@gmail.com</authorEmail>
+	<authorUrl>http://pipadigital.com.br/ e https://www.facebook.com/groups/joomla.brasil.desenvolvedores/</authorUrl>
+	<copyright>http://pipadigital.com.br/ e https://www.facebook.com/groups/joomla.brasil.desenvolvedores/</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>Portuguese Brazil Language ADMIN</description>
+	<metadata>
+		<name>Português (Brasil)</name>
+		<tag>pt-BR</tag>
+		<rtl>0</rtl>
+		<locale>pt_BR.utf8, pt_BR.UTF-8, pt_BR, ptb, pt-br, Brazilian, Portuguese</locale>
+		<firstDay>0</firstDay>
+		<weekEnd>0,6</weekEnd>
+	</metadata>
+</metafile>
