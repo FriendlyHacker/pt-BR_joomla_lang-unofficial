@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<extension type="package" version="3.2">
+<extension type="package" version="3.3">
 <name>Portuguese Brazil Language Pack</name>
 <packagename>pt-BR</packagename>
-<version>3.2.3-1</version>
-<creationDate>19 de março de 2014</creationDate>
-<author>Janderson Moreira e Joomla Brasil</author>
-<authorEmail>jandersonmm@gmail.com</authorEmail>
-<authorUrl>http://pipadigital.com.br/ e https://www.facebook.com/groups/joomla.brasil.desenvolvedores/</authorUrl>
-<copyright>http://pipadigital.com.br/ e https://www.facebook.com/groups/joomla.brasil.desenvolvedores/</copyright>
+<version>3.3.3</version>
+<creationDate>17 de agosto de 2014</creationDate>
+<author>Comunidade Joomla</author>
+<authorEmail>comunidade@joomlacarioca.com.br</authorEmail>
+<authorUrl>https://www.facebook.com/groups/grupo.joomla.br/?fref=ts</authorUrl>
+<copyright>Joomla! Project</copyright>
 <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-<url>http://pipadigital.com.br/ e https://www.facebook.com/groups/joomla.brasil.desenvolvedores/</url>
-<packager>Janderson Moreira e Joomla Brasil</packager>
-<packagerurl>http://pipadigital.com.br/ e https://www.facebook.com/groups/joomla.brasil.desenvolvedores/</packagerurl>
+<url>https://www.facebook.com/groups/grupo.joomla.br/?fref=ts</url>
+<packager>Comunidde Joomla</packager>
+<packagerurl>http://www.joomlacarioca.com.br</packagerurl>
 <description><![CDATA[
 		<div style="text-align:left;">
-		<h2><strong>Instalação do pacote de idioma Português (Brasil) para o CMS Joomla! 3.2.3-1 e o editor TinyMCE 4.0.19 foram concluídos com sucesso.</h2>
+		<h2><strong>Instalação do pacote de idioma Português (Brasil) para o CMS Joomla! 3.3.3 e o editor TinyMCE 4.0.19 foram concluídos com sucesso.</h2>
 		<p></p>
-		<p>Se você encontrar algum erro de digitação, traduções incorretas ou se deseja sugerir melhorias, entre em contato no grupo <a href="https://www.facebook.com/groups/joomla.brasil.desenvolvedores/" target="_blank">Joomla! Brasil no Facebook</a></p>
+		<p>Se você encontrar algum erro de digitação, traduções incorretas ou se deseja sugerir melhorias, entre em contato no grupo <a href="https://www.facebook.com/groups/grupo.joomla.br/?fref=ts" target="_blank">Joomla BR no Facebook</a></p>
 		<p></p>
 		<p>Não se esqueça de selecionar o idioma para pt-BR <a href="index.php?option=com_plugins&amp;view=plugins&amp;filter_search=TinyMCE"><strong>Gerenciamento de plug-in TinyMCE</strong></a><br />
 		Se você usar a detecção automática, certifique-se de que estão instalados os pacotes de idiomas diferentes para TinyMCE correspondentes aos instalado para o Joomla !</p>
