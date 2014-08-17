@@ -1,4 +1,6 @@
-Portuguese language for Joomla! 3.2.x - 
+Portuguese language for Joomla! 3.x.x - 
 
 This package is an unofficial translation of the CMS Joomla! for Brazilian Portuguese. To access official packages [click here](http://joomlacode.org/gf/project/jtranslation3_x/frs/?action=FrsReleaseBrowse&frs_package_id=6437).
+
+Este pacote é uma tradução não-oficial do CMS Joomla! para Português do Brasil. Para acessar os pacotes oficiaia [clique aqui](http://joomlacode.org/gf/project/jtranslation3_x/frs/?action=FrsReleaseBrowse&frs_package_id=6437).
 
