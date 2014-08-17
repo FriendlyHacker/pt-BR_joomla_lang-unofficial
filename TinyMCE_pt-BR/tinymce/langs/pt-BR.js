@@ -36,7 +36,7 @@ tinymce.addI18n('pt_BR',{
 "Header 5": "Cabe\u00e7alho 5",
 "Decrease indent": "Diminuir recuo",
 "Header 4": "Cabe\u00e7alho 4",
-"Paste is now in plain text mode. Contents will now be pasted as plain text until you toggle this option off.": "O comando colar est\u00e1 agora em modo texto plano. O conte\u00fado ser\u00e1 colado como texto plano at\u00e9 voc\u00ea desligar esta op\u00e7\u00e3o.",
+"Paste is now in plain text mode. Contents will now be pasted as plain text until you toggle this option off.": "O comando colar est\u00e1 agora em modo texto puro. O conte\u00fado ser\u00e1 colado como texto puro at\u00e9 que esta op\u00e7\u00e3o seja desativada.",
 "Underline": "Sublinhar",
 "Cancel": "Cancelar",
 "Justify": "Justificar",
